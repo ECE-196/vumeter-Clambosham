@@ -12,7 +12,7 @@ status.direction = Direction.OUTPUT
 
 led_pins = [
     board.IO21,
-    board.IO26,  # type: ignore
+    board.IO26,
     board.IO47,
     board.IO33,
     board.IO34,
